@@ -50,3 +50,8 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Locally generated executables and test caches
+/sttyl
+__pycache__/
+*.py[cod]
